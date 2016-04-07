@@ -1,0 +1,14 @@
+{
+  "name": "crm-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Trabelsi neji",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.5"
+  }
+}
